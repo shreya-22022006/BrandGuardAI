@@ -1,2 +1,5 @@
 streamlit
+pytesseract
+Pillow
+pdfplumber
 reportlab
